@@ -1,2 +1,2 @@
 # trappettML.github.io
-All about me, Matthew Trappett, and my research and interests.
+All about me, my research, and interests.
